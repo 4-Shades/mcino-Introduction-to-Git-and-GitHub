@@ -1,4 +1,4 @@
-git branch -vv
+theia@theia-chaime123456:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
 * bug-fix-revert e253135 [origin/bug-fix-revert] reverted footer changes on  README.md
   bug-fix-typo   77959f0 [origin/bug-fix-typo] fixed footer typo on README.md
   main           77959f0 [origin/main: ahead 1, behind 2] fixed footer typo on README.md
